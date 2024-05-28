@@ -1,0 +1,148 @@
+
+h1 {
+    color: rgb(246, 0, 0);
+    text-align: center;
+    font-size: 80PX;
+    
+
+}
+
+.title1 {
+    text-align: center;
+    font-size: 100px;
+    color: rgb(255, 6, 6);
+
+}
+
+.titulo2 {
+    text-align: center;
+    font-size: 100PX;
+    color: rgb(255, 24, 24);
+}
+
+.botones {
+
+    background-color: rgb(71, 147, 254);
+    padding: 20px;
+    border: rgb(3, 32, 85) 3px solid;
+    color: blue;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 50px;
+}
+a {
+    font-style: normal;
+    text-decoration: none;
+}
+.botones:hover {
+    background-color: rgb(142, 185, 235);
+    color: rgb(5, 113, 255)
+}
+
+.botonR_B{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+body{
+
+    background-image: url("race-flag-background-30.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p {
+    text-align: center;
+    font-size: 80px;
+    color: brown;
+
+}
+.descuento{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 50PX;
+}
+#carros {
+    position: absolute;
+    left: 100px;
+    top: 600px;
+   
+
+}
+
+.noscontac {
+    text-align: left;
+    color: rgb(225, 79, 233);
+    font-size: 50px;
+}
+.clase1 {
+    text-align: left;
+    color:rgb(146, 1, 1);
+    font-size: 50px;
+}
+
+.bueno {
+    text-align: left;
+    color: rgb(231, 103, 11);
+}
+
+.que {
+    text-align: left;
+    color: rgb(231, 120, 40);
+}
+.hola {
+   text-align: left;
+   color: rgb(146, 39, 39);
+   font-size: 50px;
+}
+.an {
+    text-align: center;
+    color: rgb(191, 123, 255);
+    font-size: 80px;
+}
+.ani {
+    text-align: center;
+    color: crimson;
+    font-size: 40px;
+}
+.imagendeanime {
+    width: 30ppx;
+    border-radius: 50%;
+    border: solid 5px crimson;
+}
+.imagende {
+    width: 710px;
+    border-radius: 50%;
+    border: solid 5px crimson;
+}
+.fotomia {
+    width: 200px;
+    border-radius: 50%;
+    border: solid 5px rgb(70, 6, 107);
+    position: fixed;
+    top: 200px;
+    right: 400px;
+}
+
+.carros {
+
+    width: 600px;
+    border-radius: 50%;
+    border: solid 5px rgb(255, 102, 0);
+
+}
+.cultura {
+    width: 600px;
+    border-radius: 50%;
+    border: solid 5px rgb(0, 0, 0);
+}
+.carros2 {
+    width: 400px;
+    border-radius: 50%;
+    border: solid 5px rgb(229, 93, 44);
+}
+.formulario {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(79, 19, 31);
+}
